@@ -6,7 +6,11 @@ class program
     Console.Writeline("Rana Badar Munir");
     Console.Writeline("24-ST-015");
 Subtraction
+Conflict2
     Console.Write("Enter First Number: ");
+
+    Console.Write("Enter First number: ");
+ main
         int a = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Enter second number: ");
