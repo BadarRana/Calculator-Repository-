@@ -11,6 +11,14 @@ class program
         Console.Write("Enter second number: ");
         int b = Convert.ToInt32(Console.ReadLine());
 
+Multiplication
+ Division
+        Console.WriteLine($"Division: {a / b}");
+
+        Console.WriteLine($"Product: {a * b}");
+Multiplication
+
         Console.WriteLine($"sub: {a - b}");
+Subtraction
   }
 }
